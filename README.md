@@ -8,6 +8,10 @@ Create a project with laravel
 
 Create App key with artisan
 Enable SQLite in php.ini
+Install and enable XDebug
+Install Vue DevTools in your browser
+Run npm run dev alongside laravel when debugging
+
 run 
 ```console
 php artisan migrate
